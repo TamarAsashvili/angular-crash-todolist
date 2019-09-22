@@ -1,0 +1,15 @@
+.form {
+    display: flex;
+}
+
+.form input[type='text'] {
+    flex: 8;
+    padding: 5px;
+    border: 1px dotted rgb(84, 88, 84);
+    color: blue;
+}
+
+.form input[type='submit'] {
+    flex: 4;
+    border: 1px dotted rgb(90, 102, 90);
+}

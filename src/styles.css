@@ -23,12 +23,13 @@ a {
 .btn {
     display: inline-block;
     border: none;
-    background: #555;
-    color: #fff;
+    background: rgb(169, 204, 12);
+    color: rgb(3, 7, 238);
     padding: 7px 20px;
     cursor: pointer;
 }
 
 .btn:hover {
-    background: #666;
+    background: rgb(43, 93, 23);
+    color: whitesmoke;
 }
